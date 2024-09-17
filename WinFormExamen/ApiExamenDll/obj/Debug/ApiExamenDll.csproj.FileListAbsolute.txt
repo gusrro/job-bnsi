@@ -1,0 +1,12 @@
+C:\Users\Sistemas\Source\repos\ApiExamenDll\bin\Debug\ApiExamenDll.dll
+C:\Users\Sistemas\Source\repos\ApiExamenDll\bin\Debug\ApiExamenDll.pdb
+C:\Users\Sistemas\Source\repos\ApiExamenDll\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sistemas\Source\repos\ApiExamenDll\bin\Debug\RestSharp.dll
+C:\Users\Sistemas\Source\repos\ApiExamenDll\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sistemas\Source\repos\ApiExamenDll\bin\Debug\RestSharp.xml
+C:\Users\Sistemas\Source\repos\ApiExamenDll\obj\Debug\ApiExamenDll.csproj.AssemblyReference.cache
+C:\Users\Sistemas\Source\repos\ApiExamenDll\obj\Debug\ApiExamenDll.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\Source\repos\ApiExamenDll\obj\Debug\ApiExame.0659C350.Up2Date
+C:\Users\Sistemas\Source\repos\ApiExamenDll\obj\Debug\ApiExamenDll.dll
+C:\Users\Sistemas\Source\repos\ApiExamenDll\obj\Debug\ApiExamenDll.pdb
+C:\Users\Sistemas\Source\repos\ApiExamenDll\bin\Debug\ApiExamenDll.dll.config

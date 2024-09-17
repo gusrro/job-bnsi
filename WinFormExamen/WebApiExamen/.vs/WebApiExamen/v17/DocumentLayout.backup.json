@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sistemas\\Source\\repos\\WebApiExamen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C14219EF-6F16-40D7-9CA5-3F039D118737}|..\\ApiExamenDll\\ApiExamenDll.csproj|c:\\users\\sistemas\\source\\repos\\apiexamendll\\clsexamen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14219EF-6F16-40D7-9CA5-3F039D118737}|..\\ApiExamenDll\\ApiExamenDll.csproj|c:\\users\\sistemas\\source\\repos\\apiexamendll\\clsexamencanalws.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488116C-D3D3-4B48-9B77-C59980FF1AB4}|..\\WinFormExamen\\WinFormExamen.csproj|c:\\users\\sistemas\\source\\repos\\winformexamen\\abmexamenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488116C-D3D3-4B48-9B77-C59980FF1AB4}|..\\WinFormExamen\\WinFormExamen.csproj|c:\\users\\sistemas\\source\\repos\\winformexamen\\abmexamenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14219EF-6F16-40D7-9CA5-3F039D118737}|..\\ApiExamenDll\\ApiExamenDll.csproj|c:\\users\\sistemas\\source\\repos\\apiexamendll\\clsexamencanal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsExamenCanalWS.cs",
+              "DocumentMoniker": "C:\\Users\\Sistemas\\Source\\repos\\ApiExamenDll\\clsExamenCanalWS.cs",
+              "RelativeDocumentMoniker": "..\\ApiExamenDll\\clsExamenCanalWS.cs",
+              "ToolTip": "C:\\Users\\Sistemas\\Source\\repos\\ApiExamenDll\\clsExamenCanalWS.cs",
+              "RelativeToolTip": "..\\ApiExamenDll\\clsExamenCanalWS.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:04:54.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsExamenCanal.cs",
+              "DocumentMoniker": "C:\\Users\\Sistemas\\Source\\repos\\ApiExamenDll\\clsExamenCanal.cs",
+              "RelativeDocumentMoniker": "..\\ApiExamenDll\\clsExamenCanal.cs",
+              "ToolTip": "C:\\Users\\Sistemas\\Source\\repos\\ApiExamenDll\\clsExamenCanal.cs",
+              "RelativeToolTip": "..\\ApiExamenDll\\clsExamenCanal.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:29:24.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsExamen.cs",
+              "DocumentMoniker": "C:\\Users\\Sistemas\\Source\\repos\\ApiExamenDll\\clsExamen.cs",
+              "RelativeDocumentMoniker": "..\\ApiExamenDll\\clsExamen.cs",
+              "ToolTip": "C:\\Users\\Sistemas\\Source\\repos\\ApiExamenDll\\clsExamen.cs",
+              "RelativeToolTip": "..\\ApiExamenDll\\clsExamen.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwEIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T23:22:56.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ABMExamenes.cs",
+              "DocumentMoniker": "C:\\Users\\Sistemas\\Source\\repos\\WinFormExamen\\ABMExamenes.cs",
+              "RelativeDocumentMoniker": "..\\WinFormExamen\\ABMExamenes.cs",
+              "ToolTip": "C:\\Users\\Sistemas\\Source\\repos\\WinFormExamen\\ABMExamenes.cs",
+              "RelativeToolTip": "..\\WinFormExamen\\ABMExamenes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T23:17:43.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ABMExamenes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sistemas\\Source\\repos\\WinFormExamen\\ABMExamenes.cs",
+              "RelativeDocumentMoniker": "..\\WinFormExamen\\ABMExamenes.cs",
+              "ToolTip": "C:\\Users\\Sistemas\\Source\\repos\\WinFormExamen\\ABMExamenes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\WinFormExamen\\ABMExamenes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T23:14:10.351Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
